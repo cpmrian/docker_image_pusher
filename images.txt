@@ -1,6 +1,7 @@
 alpine
+python:alpine3.19
 kasmweb/xiaoyaliu
-python:latest
+
 
 
 
