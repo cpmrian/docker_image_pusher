@@ -1,6 +1,6 @@
-xiaoya.pro
-kasmweb/xiaoya:tag
-python:xiaoya.pro
+cpola
+kasmweb/cpola:tag
+python:cpola.pro
 
 
 
