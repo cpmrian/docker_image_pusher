@@ -1,6 +1,6 @@
-cpolar
-kasmweb/cpolar:tag
-python:cpolar
+xunlei
+kasmweb/xunlei:tag
+python:xunlei
 
 
 
