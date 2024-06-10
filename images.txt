@@ -1,6 +1,6 @@
-cpola
-kasmweb/cpola:tag
-python:cpola.pro
+cpolar
+kasmweb/cpolar:tag
+python:cpolar
 
 
 
