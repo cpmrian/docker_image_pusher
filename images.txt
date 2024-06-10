@@ -1,6 +1,6 @@
-xiaoyaapp/xiaoya
-kasmweb/xiaoyaapp/xiaoya:tag
-python:xiaoyaapp/xiaoya
+xiaoya
+kasmweb/xiaoya:tag
+python:xiaoya
 
 
 
