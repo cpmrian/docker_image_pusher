@@ -1,6 +1,6 @@
-onething1/wxedge
-kasmweb/onething1/wxedge:tag
-python:onething1/wxedge
+onething1
+kasmweb/onething1:tag
+python:onething1
 
 
 
