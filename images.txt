@@ -1,4 +1,6 @@
 alpine
-kasmweb/xiaoyaliu
---platform linux/arm64 cooderl/wewe-rss-sqlite:latest
+kasmweb/nginx:1.25.3
+python:xiaoyaliu
+
+
 
