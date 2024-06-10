@@ -1,6 +1,6 @@
-xiaoyaliu/alist
-kasmweb/xiaoyaliu/alist:tag
-python:xiaoyaliu/alist
+xiaoyaliu
+kasmweb/xiaoyaliu:tag
+python:xiaoyaliu
 
 
 
