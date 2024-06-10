@@ -1,6 +1,6 @@
-xware
-kasmweb/xware:tag
-python:xware
+xunlei
+kasmweb/xunlei:tag
+python:xunlei
 
 
 
