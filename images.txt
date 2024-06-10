@@ -1,6 +1,6 @@
-xiaoya
+xiaoya.pro
 kasmweb/xiaoya:tag
-python:xiaoya
+python:xiaoya.pro
 
 
 
