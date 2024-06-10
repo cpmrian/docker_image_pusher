@@ -1,6 +1,6 @@
-cnk3x
-kasmweb/cnk3x:tag
-python:cnk3x
+xware
+kasmweb/xware:tag
+python:xware
 
 
 
