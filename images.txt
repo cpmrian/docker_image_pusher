@@ -1,6 +1,7 @@
-alpine
+xiaoyaliu
+kasmweb/xiaoyaliu:tag
 python:xiaoyaliu
-kasmweb/xiaoyaliu
+
 
 
 
