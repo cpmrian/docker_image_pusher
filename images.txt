@@ -1,6 +1,6 @@
-xunlei
-kasmweb/xunlei:tag
-python:xunlei
+docker
+kasmweb/docker:tag
+python:docker
 
 
 
