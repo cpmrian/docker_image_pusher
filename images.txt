@@ -1,6 +1,6 @@
-xunlei
-kasmweb/xunlei:tag
-python:xunlei
+cnk3x/xunlei
+kasmweb/cnk3x/xunlei:tag
+python:cnk3x/xunlei
 
 
 
