@@ -1,6 +1,6 @@
-cnk3x/xunlei
-kasmweb/cnk3x/xunlei:tag
-python:cnk3x/xunlei
+openwrt
+kasmweb/openwrt:tag
+python:cnk3x/openwrt
 
 
 
