@@ -1,6 +1,6 @@
-openwrt
-kasmweb/openwrt:tag
-python:cnk3x/openwrt
+networkdownload
+kasmweb/networkdownload:tag
+python:cnk3x/networkdownload
 
 
 
