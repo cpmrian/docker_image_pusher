@@ -1,6 +1,6 @@
-networkdownload
-kasmweb/networkdownload:tag
-python:cnk3x/networkdownload
+developer024
+kasmweb/developer024:tag
+python:cnk3x/developer024
 
 
 
